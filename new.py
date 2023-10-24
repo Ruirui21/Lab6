@@ -8,6 +8,7 @@ if __name__=="__main__":
         print("Encoder menu")
         print("0. Quit")
         print("1. Encode Password")
+        print("2. Decode Password")
         menu_option=input("Select a Menu Option: ")
         if menu_option=="0":
             break
